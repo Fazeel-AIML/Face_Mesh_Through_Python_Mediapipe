@@ -37,6 +37,7 @@ This repository contains a Python script for facial landmark detection using Med
 ## Example
 
 - Upon execution, the script captures video from your webcam and displays facial landmarks on detected faces.
+- ![App Demo](Demo.gif)
 
 ## License
 
